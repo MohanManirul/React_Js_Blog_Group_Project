@@ -1,0 +1,42 @@
+github link : https://github.com/MohanManirul/React_Js_Blog_Group_Project
+send email id for git collaboration
+
+
+Api :  https://basic-blog.teamrabbil.com/api/post-categories
+
+Api defination :
+---------------
+//show menu on header
+Request Method: get
+
+
+Api :  https://basic-blog.teamrabbil.com/api/post-newest
+
+Api defination :
+---------------
+//show newest posts on home page
+Request Method: get
+
+
+
+Api :  https://basic-blog.teamrabbil.com/api/post-list/id
+
+Api defination :
+---------------
+//show category wise post list
+Request Method: get
+
+
+Api :  https://basic-blog.teamrabbil.com/api/post-details/id
+
+Api defination :
+---------------
+//show  post deatails
+Request Method: get
+
+
+Person One Task: 
+Call the api & mastering the project
+
+Person Two : After finishing Person One Task , work on pages and component
+
